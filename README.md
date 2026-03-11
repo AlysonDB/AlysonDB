@@ -1,10 +1,10 @@
-<h1> Hi! My name is AlysonDB. </h1>
+<img width="540" height="291" alt="image" src="https://github.com/user-attachments/assets/3114fbf7-8b13-4e84-bc4e-a07f85014b65" /><h1> Hi! My name is AlysonDB. </h1>
 
 <div>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alysondb&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysondb&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="148" height="180" src="https://giffiles.alphacoders.com/150/15009.gif">
 </div>
  <br>
 <div  align="center"> 
